@@ -1,12 +1,18 @@
-div {
-  background: purple;
-  font-size: 30px;
+
+.tevas .paragrafas {
+background: yellow;
 }
 
-.klase {
-     background-color: pink;
+.raudona {
+  color: red;
+}
+
+.paragrafas {
+ color: red;
+ background: teal;
+ width: 400px;
+}
+.paragrafas:hover {
+background-color: salmon;
+cursor: pointer;
   }
-
-#name {
-    color: teal;
-}

@@ -1,0 +1,29 @@
+article {
+width: 400px;
+-webkit-box-shadow: 10px 15px 51px 0px rgba(12,149,229,1);
+-moz-box-shadow: 10px 15px 51px 0px rgba(12,149,229,1);
+box-shadow: 10px 15px 51px 0px rgba(12,149,229,1);
+padding: 40px;
+}
+h1 {
+  color: #0C95E5;
+}
+img {
+  margin: 10px;
+  width: 150px;
+  float: left;
+}
+ p {
+  height: 150%;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+.remelis {
+border-style: solid;
+padding: 15px;
+}
+.uncle {
+color:#666;
+}
